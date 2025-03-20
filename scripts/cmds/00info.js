@@ -15,11 +15,11 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ─━━◉❖𝗝𝗨𝗟𝗠𝗜≛𝗝𝗔𝗔𝗧❖◉━━─ ";
+		const authorName = " ─━━◉❖𝐒𝐔𝐇𝐄𝐁 𝐊𝐇𝐀𝐍❖◉━━─ ";
 		const ownAge = "『 24 』";
-		const messenger = "100078833520452";
-		const authorFB = "https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL";
-		const authorNumber = "+9198966*****";
+		const messenger = "100034049240014";
+		const authorFB = "https://www.facebook.com/share/1BGnwCh5JM/";
+		const authorNumber = "+917983*****";
 		const Status = "𝐍𝐀𝐃𝐀𝐍 𝐁𝐀𝐂𝐇𝐈(𝐏𝐑𝐄𝐄𝐓)";
 		const urls = [
 "https://i.imgur.com/HnxHi6i.jpeg",
@@ -51,9 +51,9 @@ module.exports = {
 \⏰彡𝑁𝑜𝑤 𝑇𝑖𝑚𝑒 : ${time}
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 :⩸__${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
-    𝑻𝒈: t.me/julmi_jaat
-    𝑰𝒏𝒔𝒕𝒂: https://instagram.com/_julmi_jaat__?igshid=OGQ5ZDc2ODk2ZA==?
-   𝘍𝘢𝘤𝘦𝘣𝘰𝘰𝘬: https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL
+    𝑻𝒈: t.me/suhekhanji@
+    𝑰𝒏𝒔𝒕𝒂: https://instagram.com/_suheb_khan__?igshid=OGQ5ZDc2ODk2ZA==?
+   𝘍𝘢𝘤𝘦𝘣𝘰𝘰𝘬: https://www.facebook.com/100034049240014
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
