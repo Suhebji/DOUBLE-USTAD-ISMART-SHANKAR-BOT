@@ -182,18 +182,18 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
      return api.sendMessage("Main Hun Naw Jaaneman ❤️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "julmi") || (event.body.toLowerCase() == "julmi jaat") || (event.body.toLowerCase() == "जुल्मी") || (event.body.toLowerCase() == "जुल्मी जाट")) {
-     return api.sendMessage( " Julmi Busy HoGa Work Me Yha Main t0o Hun Na https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL😘",threadID);
+   if ((event.body.toLowerCase() == "suheb") || (event.body.toLowerCase() == "suheb khan") || (event.body.toLowerCase() == "suheb ji") || (event.body.toLowerCase() == "sk")) {
+     return api.sendMessage( " suheb Busy HoGa Work Me Yha Main t0o Hun Na https://www.facebook.com/share/1BGnwCh5JM/😘",threadID);
 
 
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝗝𝗨𝗟𝗠𝗜 𝗝𝗔𝗔𝗧☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝗝𝗨𝗟𝗠𝗜\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL\n👋For Any Kind Of Help Contact On Instagram Username 👉https://instagram.com/_julmi_jaat__?igshid=OGQ5ZDc2ODk2ZA==😇", threadID);
+     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝐒𝐔𝐇𝐄𝐁 𝐊𝐇𝐀𝐍☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐒𝐊\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/share/1BGnwCh5JM/\n👋For Any Kind Of Help Contact On Instagram Username 👉https://instagram.com/_sUHEBJISK__?igshid=OGQ5ZDc2ODk2ZA==😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("𝑱𝑼𝑳𝑴𝑰 𝑱𝑨𝑨𝑻  ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Ladkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
+     return api.sendMessage("𝐒𝐔𝐇𝐄𝐁 𝐊𝐇𝐀𝐍  ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Ladkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon ha")) {
@@ -212,7 +212,7 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
      return api.sendMessage("Tu H Btc. Bhos DK", threadID);
    };
 
-   if ((event.body.toLowerCase() == "malik se bakchodi") || (event.body.toLowerCase() == "malik se backchodi") || (event.body.toLowerCase() == "malkin se bakchodi") || (event.body.toLowerCase() == "malkin se backchodi")) {
+   if ((event.body.toLowerCase() == "Boss hu main") || (event.body.toLowerCase() == "malik se backchodi") || (event.body.toLowerCase() == "malkin se bakchodi") || (event.body.toLowerCase() == "malkin se backchodi")) {
      return api.sendMessage("srry malik maaf kr do ab nhi kruga 🥺🙏", threadID);
    };
 
