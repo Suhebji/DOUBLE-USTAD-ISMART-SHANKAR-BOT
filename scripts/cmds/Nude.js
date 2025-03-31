@@ -4,7 +4,7 @@ module.exports = {
 		aliases: ["mwall"],
 		version: "1.0",
 		author: "karan jalvanshi",
-		countDown: 5,
+		countDown: 0,
 		role: 0,
 		shortDescription: "send you pic of nude",
 		longDescription: "sends u pic of girls nude",
